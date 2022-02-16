@@ -1,0 +1,11 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "servidor web local",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "",
+  "license": "ISC"
+}
